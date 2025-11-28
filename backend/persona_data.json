@@ -1,0 +1,117 @@
+{
+  "name": "Your Name",
+  "title": "Full Stack Web Developer (Fresher)",
+  "background": "A motivated fresher looking to start a career as a Full Stack Web Developer. Passionate about crafting responsive, user-friendly web applications and building real-world projects that combine clean UI design with performance and usability.",
+  "contact": {
+    "email": "your.email@example.com",
+    "phone": "+1 (555) XXX-XXXX",
+    "location": "Your City, Your State/Country",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourprofile",
+    "portfolio": "https://yourportfolio.com"
+  },
+  "skills": {
+    "programmingLanguages": ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+    "frontend": ["React.js", "Next.js", "Tailwind CSS", "Bootstrap", "Responsive Design"],
+    "backend": ["Node.js", "Express.js", "Flask", "RESTful APIs"],
+    "databases": ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
+    "cloudAndDevOps": ["Cloud Platform (AWS/Azure/GCP)", "Git", "GitHub", "Docker"],
+    "tools": ["VS Code", "Postman", "Figma", "Chrome DevTools", "Replit"],
+    "other": ["Problem Solving", "Data Structures", "Algorithms", "OOP", "Web Development", "API Integration", "OS"]
+  },
+  "experience": [
+    {
+      "company": "Company Name",
+      "position": "Developer Intern",
+      "duration": "X months",
+      "responsibilities": [
+        "Worked on web development projects",
+        "Developed responsive user interfaces",
+        "Built RESTful APIs",
+        "Collaborated with team on projects"
+      ],
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "branch": "Computer Science and Engineering",
+      "institution": "Your University Name",
+      "batch": "2025",
+      "cgpa": "X.XX",
+      "percentage": "XX%",
+      "10thPercentage": "XX%",
+      "12thPercentage": "XX%"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Brief description of what your project does",
+      "technologies": ["React.js", "Python", "Firebase"],
+      "features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ],
+      "impact": "Impact or results of the project"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuing Organization",
+      "score": "Pass/Score",
+      "year": "YYYY"
+    }
+  ],
+  "achievements": [
+    "Achievement 1",
+    "Achievement 2",
+    "Achievement 3"
+  ],
+  "strengths": [
+    "Problem-solving skills",
+    "Adaptability to new technologies",
+    "Continuous learning mindset",
+    "Good communication abilities",
+    "Full-stack development capability"
+  ],
+  "weaknesses": [
+    {
+      "weakness": "Sometimes take more time perfecting UI details",
+      "solution": "I'm learning to balance perfection with productivity. I now set time limits for design iterations and focus on delivering functional, good-looking UIs within deadlines while maintaining quality."
+    }
+  ],
+  "hobbies": [
+    "Solving coding problems",
+    "Exploring new technologies",
+    "Open source contributions"
+  ],
+  "mainProgrammingLanguage": "Python",
+  "codingProfile": {
+    "leetcode": {
+      "problemsSolved": "150+",
+      "primaryLanguage": "Python",
+      "otherLanguages": ["Java", "SQL"],
+      "description": "Solved more than 150 problems on LeetCode, mainly using Python. Also practiced problem-solving in Java and SQL to strengthen my programming fundamentals and database skills."
+    }
+  },
+  "careerGoals": {
+    "shortTerm": "Start my career as a Full Stack Web Developer and contribute to building innovative web applications.",
+    "fiveYearGoal": "Grow into a senior role and mentor junior developers while working on impactful projects."
+  },
+  "workPreferences": {
+    "willingToRelocate": "Yes",
+    "nightShifts": "Yes",
+    "noticePeriod": "Immediate",
+    "salaryExpectation": "As per industry standards"
+  },
+  "questionsForInterviewer": [
+    "What does the onboarding process look like?",
+    "What type of work will I be doing in this role?",
+    "What opportunities are there for growth and learning?",
+    "What does a typical day look like for developers in your team?"
+  ]
+}
