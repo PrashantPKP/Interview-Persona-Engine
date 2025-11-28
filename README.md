@@ -158,6 +158,12 @@ The MIT License allows you to:
 - **LinkedIn**: [https://www.linkedin.com/in/prashantpkp/](https://www.linkedin.com/in/prashantpkp/)
 - **Portfolio**: [https://prashantparshuramkar.host20.uk/](https://prashantparshuramkar.host20.uk/)
 
+
+**Nishant Sonar**
+
+- **GitHub**: [https://github.com/Nishant-sonar](https://github.com/Nishant-sonar)
+- **LinkedIn**: [https://www.linkedin.com/in/nishantsonar44/](https://www.linkedin.com/in/nishantsonar44/)
+- **Portfolio**: [https://nishantsonar.host20.uk/](https://nishantsonar.host20.uk/)
 ## 🔗 Repository
 
 - **GitHub Repository**: [https://github.com/PrashantPKP/Interview-Persona-Engine.git](https://github.com/PrashantPKP/Interview-Persona-Engine.git)
